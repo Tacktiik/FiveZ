@@ -11,7 +11,7 @@ Cliquez sur le [lien ici](https://github.com/Tacktiik/FiveZ/projects/1)
 ## Me contacter? 
 
 ```python
-http://Discord.gg/PasEncore
+https://discord.gg/SaDZqhNhvW
 ```
 
 ## Pour m'aider
